@@ -6,9 +6,7 @@
 #include "AnimGraphNode_EditBonePosition.generated.h"
 
 struct FAnimNode_EditBonePosition;
-/**
-*
-*/
+
 UCLASS()
 class CREWANIMUTILSEDITOR_API UAnimGraphNode_EditBonePosition : public UAnimGraphNode_Base
 {
@@ -24,6 +22,4 @@ class CREWANIMUTILSEDITOR_API UAnimGraphNode_EditBonePosition : public UAnimGrap
 	virtual FString GetNodeCategory() const override;
 
 	UAnimGraphNode_EditBonePosition();
-
-
 };
