@@ -14,7 +14,7 @@ public class CrewAnimUtils : ModuleRules
                 "Engine",
                 "AnimationCore",
                 "AnimGraphRuntime"
-			}
+	    }
         );
     }
 }
