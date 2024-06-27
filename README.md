@@ -1,6 +1,6 @@
 # CREWAnimationUtilities
 
-This UnrealEngine plugin contains utilities used by Crew to solve common problems when dealing with real-time VR performances.
+This UnrealEngine plugin contains utilities used by CREW to solve common problems when dealing with real-time VR performances.
 
 At this point it contains one animation node 
 
