@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "CrewAnimUtilsEditor",
-			"Type": "Runtime",
+			"Type": "Editor",
 			"LoadingPhase": "PreDefault",
 			"WhitelistPlatforms": [
 				"Win64"
