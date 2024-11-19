@@ -8,6 +8,11 @@ USTRUCT(BlueprintType)
 struct FIgnoreVectorSettings
 {
 	GENERATED_BODY()
+	FIgnoreVectorSettings() {
+		IgnoreX = false;
+		IgnoreY = false;
+		IgnoreZ = false;
+	}
 
 	UPROPERTY(EditAnywhere, Category = "FIgnoreVectorSettings")
 	bool IgnoreX;
