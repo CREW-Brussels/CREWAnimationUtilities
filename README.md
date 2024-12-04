@@ -15,14 +15,11 @@ After correcting the offset and orientation of the tracker, it's position can be
 ![ExempleBluePrint](https://github.com/CREW-Brussels/CREWAnimationUtilities/assets/6745738/6421679b-c993-4ec1-914d-26669ff1b608)
 
 ## About
-
 ![](/.doc/img/CREW-logo.png)
 ![](/.doc/img/emil.png)
 
-CREW_LBX is a development by [CREW](https://crew.brussels/) in the scope of the EU funded project [EMIL](https://emil-xr.eu/) (101070533).
+CIRCAPlayer is being developed by [CREW](http://crew.brussels) as part of [EMIL](https://emil-xr.eu/), the European Media and Immersion Lab, an Innovation Action funded by the European Union and co-funded by Innovate UK. 
 
 ## Funding
-
 ![](.doc/img/funded-by-the-eu.png)
-
 This project has received funding from the European Union's Horizon Europe Research and Innovation Programme under Grant Agreement No 101070533 EMIL.
