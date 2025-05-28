@@ -2,7 +2,7 @@
 #include "AnimationRuntime.h"
 #include "Animation/AnimInstanceProxy.h"
  
-FAnimNode_EditBonePosition::FAnimNode_EditBonePosition() {}
+FAnimNode_EditBonePosition::FAnimNode_EditBonePosition() : Position(0.0) {}
 
 void FAnimNode_EditBonePosition::Initialize_AnyThread(const FAnimationInitializeContext & Context)
 {

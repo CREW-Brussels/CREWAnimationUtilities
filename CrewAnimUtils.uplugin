@@ -16,18 +16,12 @@
 		{
 			"Name": "CrewAnimUtils",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault",
-			"WhitelistPlatforms": [
-				"Win64"
-			]
+			"LoadingPhase": "PostConfigInit"
 		},
 		{
 			"Name": "CrewAnimUtilsEditor",
-			"Type": "Editor",
-			"LoadingPhase": "PreDefault",
-			"WhitelistPlatforms": [
-				"Win64"
-			]
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
 		}
 	]
 }
